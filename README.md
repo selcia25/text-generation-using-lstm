@@ -16,7 +16,7 @@ This project explores text generation using LSTM (Long Short-Term Memory) neural
 
 ## Dataset
 
-The dataset used for training the model is a collection of Medium article titles. The dataset (`medium_data.csv`) contains a single column named `title` with the titles of the articles.
+The dataset used for training the model is a collection of Medium article titles. The dataset (`medium_data.csv`) contains a multiple columns including `title` with the titles of the articles.
 
 ## Model Training
 
